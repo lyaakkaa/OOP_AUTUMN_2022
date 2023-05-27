@@ -1,0 +1,24 @@
+ import java.util.*;
+ 
+public class extra {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Scanner sc = new Scanner(System.in);
+        System.out.print("Enter a day: ");
+        int day = sc.nextInt();
+        GregorianCalendar calendar = new GregorianCalendar(2022 , Calendar.SEPTEMBER, day);
+        System.out.print(calendar);
+        String daysOfWeek[] = { "SUN", "MON", "TUE", "WED","THU", "FRI", "SAT" };
+        
+
+        System.out.println("MONTH: Semptember");
+        for (int  i = 0; i < 7; i++) {
+            System.out.print("   " + daysOfWeek[i]);
+        }
+        System.out.println();
+        
+
+	}
+
+}

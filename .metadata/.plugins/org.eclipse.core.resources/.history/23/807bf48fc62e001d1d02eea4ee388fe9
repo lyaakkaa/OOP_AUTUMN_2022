@@ -1,0 +1,47 @@
+ import java.util.*;
+public class extra {
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+        System.out.print("Enter a day: ");
+        int day = sc.nextInt();
+        GregorianCalendar calendar = new GregorianCalendar(2022 , Calendar.SEPTEMBER, day);
+       
+        String daysOfWeek[] = { "SUN", "MON", "TUE", "WED","THU", "FRI", "SAT" };
+        for (int  i = 0; i < 7; i++) {
+        	System.out.print(daysOfWeek[i] + "   ") ;
+        }
+        System.out.println();
+        int dy = 1;
+        for (int j = 1; j <= 31 ; j++) {
+            if (j > 6) {
+                dy = dy % 6;
+            }
+        }
+        
+        int spaces = dy;
+        if (spaces < 0)
+            spaces = 6;
+        
+        for (int i = 0; i < 3; i++)
+            System.out.print("      ");
+        for (int i = 1; i <= 30; i++) {
+            System.out.printf(" %4d ", i);
+  
+            if ((i % 7 == 0)
+                || (i == 30))
+                System.out.println(padded(i, 3));
+        }
+        
+
+	}
+	
+	public static String padded(int n, int width) {
+        String s = "" + n;
+        for (int i = s.length(); i < width; i++) {
+            s = " " + s;
+        }
+
+        return s;
+    }
+
+}

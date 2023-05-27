@@ -1,0 +1,15 @@
+package Problem3;
+
+public class Tester {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Position p = new Position("a2");
+		Position p1 = new Position("a7");
+		//System.out.print(p);
+		Pawn pp = new Pawn(p, Color.BLACK);
+		System.out.println(pp.isLegalMove(p1));
+
+	}
+
+}

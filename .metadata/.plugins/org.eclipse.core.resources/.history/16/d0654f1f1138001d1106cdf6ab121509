@@ -1,0 +1,7 @@
+
+public class Analyzer {
+	private double average;
+	private double maxi;
+	
+
+}

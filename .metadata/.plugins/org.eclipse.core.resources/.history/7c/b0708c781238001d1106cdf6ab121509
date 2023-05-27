@@ -1,0 +1,13 @@
+
+public class DataTest {
+
+	public static void main(String[] args) {
+		Data a = new Data(2);
+		Data b = new Data(1);
+		Data c = new Data(3);
+		System.out.println(Data.getCnt());
+		System.out.println(Data.getSum());
+
+	}
+
+}

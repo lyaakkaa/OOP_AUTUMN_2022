@@ -1,0 +1,12 @@
+package Problem3;
+
+public class Tester {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Position p = new Position("a4");
+		System.out.print(p.x);
+
+	}
+
+}

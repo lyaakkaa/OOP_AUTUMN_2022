@@ -1,0 +1,22 @@
+import java.util.*;
+
+public class Analyzerr {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Scanner sc = new Scanner(System.in);
+		
+		
+		while(sc.hasNextDouble()){
+			Data num = new Data();
+			String x;
+			x = sc.next();
+			num.getSum(Double.parseDouble(x));
+			
+		}
+		System.out.print(num.getAverage());
+		
+
+	}
+
+}

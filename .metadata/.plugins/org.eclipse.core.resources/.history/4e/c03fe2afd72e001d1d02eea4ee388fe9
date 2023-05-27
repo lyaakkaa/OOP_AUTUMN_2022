@@ -1,0 +1,18 @@
+ import java.util.*;
+ 
+public class calen {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int selectedYear = 2022;
+		int selectMonth = 8;  // September
+		
+		Calendar calendar = new GregorianCalendar();
+		int cDay = calendar.get(Calendar.DATE);
+		int cMon = calendar.get(Calendar.MONTH);
+		int cYear = calendar.get(Calendar.YEAR);
+		
+		
+	}
+
+}

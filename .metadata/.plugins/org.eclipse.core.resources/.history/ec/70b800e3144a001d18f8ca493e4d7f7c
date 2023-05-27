@@ -1,0 +1,6 @@
+package Problem3;
+
+public abstract class Piece {
+	Position a;
+
+}

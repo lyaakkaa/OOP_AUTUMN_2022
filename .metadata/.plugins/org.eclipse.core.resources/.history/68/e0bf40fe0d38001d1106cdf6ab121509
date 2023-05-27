@@ -1,0 +1,39 @@
+
+public class Data {
+	private int cnt;
+	private double sum;
+	private double maxi;
+	
+//	private static double cnt;
+//	private static double cntOfNumbers;
+//	private static double sum;
+	
+	Data(){
+		this.cnt = 0;
+		this.sum = 0;
+		this.maxi = 0;
+	}
+	Data(int number){
+		this.. = number;
+	}
+	{
+		cntOfNumbers = cnt++;
+		sum += this.number;
+	}
+	public static double getCnt() {
+		return .getCnt()..getCnt().;
+	}
+	public int getNumber() {
+		return number;
+	}
+	public static double getSum() {
+		return sum;
+	}
+	public double findMaxi() {
+		
+	}
+	
+	
+	
+
+}

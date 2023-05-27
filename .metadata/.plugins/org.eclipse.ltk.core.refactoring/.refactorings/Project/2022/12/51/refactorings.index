@@ -1,0 +1,22 @@
+1670834151016	Encapsulate field 'name'
+1670834155861	Encapsulate field 'code'
+1670834160278	Encapsulate field 'credits'
+1670834163654	Encapsulate field 'faculty'
+1670834167887	Encapsulate field 'teachers'
+1670834171901	Encapsulate field 'limitOfStudents'
+1670834175173	Encapsulate field 'students'
+1670834178702	Encapsulate field 'prereq'
+1670836640178	Delete element
+1670837386609	Delete element
+1670917194973	Encapsulate field 'isAvailable'
+1670917490405	Delete element
+1670919063351	Encapsulate field 'id'
+1670926120866	Encapsulate field 'managerType'
+1671020059700	Encapsulate field 'courseFiles'
+1671023836812	Encapsulate field 'lessonType'
+1671023840878	Encapsulate field 'day'
+1671023844592	Encapsulate field 'start'
+1671023847892	Encapsulate field 'end'
+1671036485161	Encapsulate field 'isElective'
+1671041148220	Encapsulate field 'numOfStudents'
+1671050437298	Delete element

@@ -1,0 +1,1 @@
+1) Course: OOP (FIT): Mark [attestation1=26.0, attestation2=0.0, finalExam=0.0, gpa=0.0]

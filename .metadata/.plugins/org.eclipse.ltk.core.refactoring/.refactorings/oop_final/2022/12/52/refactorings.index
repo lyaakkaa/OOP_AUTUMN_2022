@@ -1,0 +1,31 @@
+1671442133212	Move compilation unit
+1671442218343	Delete element
+1671442864821	Encapsulate field 'yearOfStudy'
+1671442868495	Encapsulate field 'id'
+1671442875838	Encapsulate field 'degree'
+1671442883426	Encapsulate field 'GPA'
+1671442893578	Encapsulate field 'faculty'
+1671442897442	Encapsulate field 'speciality'
+1671442902237	Encapsulate field 'transcript'
+1671442912584	Encapsulate field 'totalCredits'
+1671442924841	Encapsulate field 'organizations'
+1671442927667	Encapsulate field 'grades'
+1671442930388	Encapsulate field 'courses'
+1671442933001	Encapsulate field 'books'
+1671443934181	Encapsulate field 'faculty'
+1671443937496	Encapsulate field 'rate'
+1671443940589	Encapsulate field 'teacherStatus'
+1671443944395	Encapsulate field 'courses'
+1671444240034	Move compilation unit
+1671534905937	Encapsulate field 'lessons'
+1671535732230	Delete element
+1671538501758	Encapsulate field 'student'
+1671538802247	Delete element
+1671544198692	Delete element
+1671613260219	Encapsulate field 'overallGpa'
+1671645799053	Delete element
+1671645806219	Delete element
+1671663182290	Delete element
+1671665297549	Delete element
+1671678261848	Delete element
+1671678266866	Delete element

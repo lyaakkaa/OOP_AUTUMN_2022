@@ -1,0 +1,39 @@
+
+public class Data {
+	private int cnt;
+	private double sum;
+	private double maxi;
+	
+	private static int cntOfNumbers = 0;
+	
+
+	
+	Data(){
+		this.cnt = 0;
+		this.sum = 0;
+		this.maxi = 0;
+	}
+
+	{
+		cnt = cntOfNumbers++;
+	}
+	
+	public void getSum(double num) {
+		sum += num;
+	}
+	
+	public int getCnt() {
+		return cntOfNumbers;
+	}
+	
+	public double getAverage() {
+		return sum / cntOfNumbers;
+	}
+	
+	
+	
+	
+	
+	
+
+}

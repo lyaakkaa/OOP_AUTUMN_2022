@@ -1,0 +1,12 @@
+breadcrumb.org.eclipse.jdt.ui.JavaPerspective=true
+command=C\:\\Users\\leila\\Downloads\\eclipse-java-2022-06-R-win32-x86_64\\eclipse\\plugins\\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.3.v20220515-1416\\jre\\bin\\javadoc.exe
+content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="java.lang.Enum"><rhs name\="Problem3.Color"/><rhs name\="Problem2.AppleColor"/><rhs name\="other.TimeOfAttestation"/></lhs><lhs name\="java.lang.constant.Constable"><rhs name\="Problem3.Color"/><rhs name\="Problem2.AppleColor"/><rhs name\="other.TimeOfAttestation"/></lhs><lhs name\="Problem3.Color"><rhs name\="Problem3.Color"/></lhs><lhs name\="Problem2.AppleColor"><rhs name\="Problem2.AppleColor"/></lhs><lhs name\="other.TimeOfAttestation"><rhs name\="other.TimeOfAttestation"/></lhs></history>
+content_assist_number_of_computers=12
+content_assist_proposals_background=255,255,255
+content_assist_proposals_foreground=0,0,0
+eclipse.preferences.version=1
+org.eclipse.jdt.ui.formatterprofiles.version=22
+spelling_locale_initialized=true
+typefilter_migrated_2=true
+useAnnotationsPrefPage=true
+useQuickDiffPrefPage=true

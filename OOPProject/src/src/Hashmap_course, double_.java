@@ -1,0 +1,5 @@
+/**
+*/
+class Hashmap<course, double> {
+}
+

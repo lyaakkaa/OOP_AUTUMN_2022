@@ -1,0 +1,11 @@
+Total students: 4
+Total FIT students: 4
+Total SECMC students: 0
+Total BS students: 0
+Average GPA: NaN
+Academic performance status: PoorTotal students: 4
+Total FIT students: 4
+Total SECMC students: 0
+Total BS students: 0
+Average GPA: NaN
+Academic performance status: Poor

@@ -1,0 +1,5 @@
+/**
+ */
+class HashMap<Student, Double> {
+}
+

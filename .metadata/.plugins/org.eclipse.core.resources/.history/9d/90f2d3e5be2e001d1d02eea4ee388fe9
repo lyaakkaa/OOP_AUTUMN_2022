@@ -1,0 +1,19 @@
+ import java.util.*;
+ 
+public class extra {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Scanner sc = new Scanner(System.in);
+        System.out.print("Enter a year: ");
+        int year = sc.nextInt();
+        System.out.print("Enter a month: ");
+        int monthh = sc.nextInt();
+        System.out.print("Enter a day: ");
+        int day = sc.nextInt();
+        GregorianCalendar calendar = new GregorianCalendar(year , monthh, day);
+        System.out.print(calendar);
+
+	}
+
+}
